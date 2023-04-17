@@ -1,0 +1,1 @@
+This was a refresher on Promises. From callback hell to Promise.all. Lots of useful information in the section. Will be good to have these notes to revisit. Also learned about IEFE or Immideatly Envoked Function Expressions, which I thought was cool syntax. Not sure exactly of use cases though.... Ah they would secure a variables scope + more.
